@@ -15,4 +15,4 @@ Includes notes, code review templates, agile workflows, and mini-project managem
 - Document growth as a technical project manager
 
 ---
-*Maintained by [Abisola](https://github.com/yourusername)*
+*Maintained by [Abisola](https://github.com/Btina3)*
